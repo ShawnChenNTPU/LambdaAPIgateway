@@ -11,5 +11,5 @@ def CTF(ueID):
 
 userid="imsi-20893000000000303
 CTF(userid)
-print('93statusCode': 200')
+print('statusCode': 200')
 }
